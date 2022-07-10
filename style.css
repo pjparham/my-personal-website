@@ -8,12 +8,14 @@ Alice Blue:# e4edF2 //light background color
 */
 body {
     background: #e4edF2;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 #heading {
+    font-size: 57px;
     margin: auto;
     text-align: center;
     color: #0b275b;
-    text-shadow: 2px 2px #E1ff5c;
+    text-shadow: 3.5px 4px #E1ff5c;
     background-color: #B4C1CF;
     width: 60%;
 }
