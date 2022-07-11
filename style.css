@@ -37,3 +37,6 @@ body {
     text-align: center;
     border-radius: 20%;
 }
+.hide {
+    display: none;
+}
