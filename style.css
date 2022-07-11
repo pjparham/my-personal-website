@@ -24,16 +24,23 @@ body {
 .content {
     width: 1000px;
     height: 110px;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    margin: auto;
     background-color: #B4C1CF;
-    padding-top: 1px;
+    padding-top: 3px;
     padding-left: 5px;
-    
+    border: 3px solid #E1ff5c;
+    outline: 4px solid #0b275b;
+
 }
 .heading {
+    margin: auto;
+    padding: 5px;
     color: #0b275b;
     background-color: #E1ff5c;
     width: 150px;
-    border: solid #0b275b 2px;
+    border: solid #0b275b 4px;
     text-align: center;
     border-radius: 20%;
 }
